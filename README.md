@@ -4,6 +4,6 @@ Para este trabalho elaborei o planejamento de um web game chamado MapPointr, ond
 Informações:
 
 - A url do Miro para as etapas do Lean Inception encontra-se em “canvas-url.txt”;
-- O PDF com backlog do produto e da sprint encontra-se em "backlog.pdf";
+- O PDF com backlog do produto e da sprint, incluindo detalhamento da sprint, encontra-se em "backlog.pdf";
 - As imagens dos protótipos de interface do MVP encontram-se na pasta "wireframe";
 - A url para o vídeo encontra-se em "video-url.txt".
